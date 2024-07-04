@@ -1,0 +1,1 @@
+﻿select IDImpiegato FROM IMPIEGATO
